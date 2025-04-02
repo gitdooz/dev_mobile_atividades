@@ -1,5 +1,5 @@
 # dev_mobile_atividades
-*Osmar Pereira de Menezes       -       Turma E03 - Embarque Digital - manhã*
+*Osmar Pereira de Menezes - urma E03 - Embarque Digital - manhã*
 ## **Lista de atividades da matéria de Desenvolvimento Mobile.** <br>
 
 
