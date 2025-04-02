@@ -1,5 +1,6 @@
-dev_mobile_atividades
-# Lista de atividades da matéria de Desenvolvimento Mobile.
+# dev_mobile_atividades
+## **Lista de atividades da matéria de Desenvolvimento Mobile.** <br>
+*Osmar Pereira de Menezes       -       Turma E03 - Embarque Digital - manhã*
 
 1ª) Criar classes abstratas que gerencia diferentes tipos de veículos (moto, carro, bicicleta). Cada veículo possui características e comportamentos.<br>
 2ª) Criar classes abstratas e heranças que gerencia diferentes tipos de dispositivos eletrônicos (smartphone e televisão). Cada dispositivo possui características e comportamentos diferentes.<br>
